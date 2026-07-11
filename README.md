@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Apratap01/Apratap01/main/images/Profile.png"
+       alt="Aditya Partap"
+       width="180">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Partap</h1>
 
 <h3 align="center">
