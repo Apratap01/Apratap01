@@ -351,7 +351,7 @@ A MERN Stack job portal supporting recruiters and job seekers with secure authen
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/adityapartap0201">
+<a href="https://www.linkedin.com/in/aditya-partap-808319355/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
