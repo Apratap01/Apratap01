@@ -186,12 +186,12 @@ A Retrieval-Augmented Generation (RAG) platform for intelligent legal document a
 
 <p>
 
-<a href="YOUR_LEGALDOC_GITHUB_LINK">
-<img src="[https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github](https://github.com/Apratap01/LegalDoc)">
+<a href="https://github.com/Apratap01/LegalDoc">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LEGALDOC_DEMO_LINK">
-<img src="[https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white](https://legal-doc-ui.vercel.app/)">
+<a href="https://legal-doc-ui.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
@@ -240,12 +240,12 @@ A MERN Stack job portal supporting recruiters and job seekers with secure authen
 
 <p>
 
-<a href="YOUR_JOBHUNT_GITHUB_LINK">
-<img src="[https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github](https://github.com/Apratap01/Job-Hunt)">
+<a href="https://github.com/Apratap01/Job-Hunt">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_JOBHUNT_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://job-hunt.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
