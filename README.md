@@ -187,11 +187,11 @@ A Retrieval-Augmented Generation (RAG) platform for intelligent legal document a
 <p>
 
 <a href="YOUR_LEGALDOC_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+<img src="[https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github](https://github.com/Apratap01/LegalDoc)">
 </a>
 
 <a href="YOUR_LEGALDOC_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="[https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white](https://legal-doc-ui.vercel.app/)">
 </a>
 
 </p>
@@ -241,7 +241,7 @@ A MERN Stack job portal supporting recruiters and job seekers with secure authen
 <p>
 
 <a href="YOUR_JOBHUNT_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+<img src="[https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github](https://github.com/Apratap01/Job-Hunt)">
 </a>
 
 <a href="YOUR_JOBHUNT_DEMO_LINK">
