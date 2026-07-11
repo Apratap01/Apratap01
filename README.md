@@ -29,7 +29,7 @@ CGPA <b>8.79/10</b> • Backend Engineering • Full Stack • Generative AI
 <img src="https://img.shields.io/badge/GitHub-Apratap01-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/adityapartap0201">
+<a href="https://www.linkedin.com/in/aditya-partap-808319355/">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Partap-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
