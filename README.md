@@ -338,9 +338,9 @@ A MERN Stack job portal supporting recruiters and job seekers with secure authen
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Apratap01/Apratap01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Apratap01/Apratap01/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 ---
 
 # 🤝 Connect With Me
