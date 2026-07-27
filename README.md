@@ -50,7 +50,7 @@ CGPA <b>8.79/10</b> • Backend Engineering • Full Stack • Generative AI
 - 🎓 B.Tech Computer Science & Engineering at **National Institute of Technology Kurukshetra**
 - 💡 Passionate about building scalable backend systems and AI-powered applications.
 - 🚀 Interested in **Backend Engineering, Full Stack Development, Generative AI, RAG Systems and System Design**
-- 💻 Solved **800+ DSA Problems**
+- 💻 Solved **900+ DSA Problems**
 - ⭐ Peak **LeetCode Rating: 1950**
 - 🌱 Currently learning **Advanced System Design, LLM Applications and Distributed Systems**
 
