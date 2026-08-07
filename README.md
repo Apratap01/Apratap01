@@ -29,7 +29,7 @@ CGPA <b>8.79/10</b> • Backend Engineering • Full Stack • Generative AI
 <img src="https://img.shields.io/badge/GitHub-Apratap01-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-partap-808319355/">
+<a href="https://www.linkedin.com/in/apratap01/">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Partap-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -51,7 +51,7 @@ CGPA <b>8.79/10</b> • Backend Engineering • Full Stack • Generative AI
 - 💡 Passionate about building scalable backend systems and AI-powered applications.
 - 🚀 Interested in **Backend Engineering, Full Stack Development, Generative AI, RAG Systems and System Design**
 - 💻 Solved **900+ DSA Problems**
-- ⭐ Peak **LeetCode Rating: 1950**
+- ⭐ Peak **LeetCode Rating: 2000**
 - 🌱 Currently learning **Advanced System Design, LLM Applications and Distributed Systems**
 
 ---
@@ -95,7 +95,7 @@ CGPA <b>8.79/10</b> • Backend Engineering • Full Stack • Generative AI
 </tr>
 </table>
 
-- 💻 Solved **800+ Data Structures & Algorithms** problems across LeetCode and GeeksforGeeks.
+- 💻 Solved **900+ Data Structures & Algorithms** problems across LeetCode and GeeksforGeeks.
 - 🎓 Maintaining a **CGPA of 8.79/10** at NIT Kurukshetra.
 - 🚀 Passionate about solving real-world software engineering problems using scalable technologies.
 
@@ -349,7 +349,7 @@ A MERN Stack job portal supporting recruiters and job seekers with secure authen
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-partap-808319355/">
+<a href="https://www.linkedin.com/in/apratap01/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
